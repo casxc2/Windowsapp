@@ -8,6 +8,6 @@
 #include <windows.h>
 
 float GetCpuUsagePercent(void);
-float GetCPUTemp(void);
+
 
 #endif //WINDOWSAPP_CPULIB_H

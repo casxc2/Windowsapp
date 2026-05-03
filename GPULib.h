@@ -8,5 +8,7 @@
 float GetGPUUsage(void);
 float GetGRAMUsage(void);
 void ShutdownNvml(void);
+float GetGPUTemp(void);
+void ShutdownNvml(void);
 
 #endif //WINDOWSAPP_GPULIB_H
