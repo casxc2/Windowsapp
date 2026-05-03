@@ -7,4 +7,6 @@ add_executable(Windowsapp main.c
         RamLib.c
         RamLib.h
         DiskLib.h
-        DiskLib.c)
+        DiskLib.c
+        CPULib.h
+        CPULib.c)
